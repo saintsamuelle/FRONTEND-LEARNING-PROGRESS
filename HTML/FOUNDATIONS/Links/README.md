@@ -1,20 +1,29 @@
-# Links
+# HTML Links Lesson – Mini Website
 
-This lesson focuses on creating **hyperlinks** in HTML to connect web pages and resources.
+This project demonstrates how to create and use hyperlinks in HTML by building a small, multi-page website.  
+It covers:
+- External links to other websites.
+- Internal links between pages in the same site.
+- Using images as clickable links.
+- Email (`mailto:`) and phone (`tel:`) links.
 
-## 📌 What I Learned
-- Anchor tag `<a>` and the `href` attribute.
-- Absolute vs relative URLs.
-- Opening links in the same tab vs a new tab (`target="_blank"`).
-- Linking to sections within the same page using anchors.
-- Using `mailto:` for email links.
+---
 
-## 📂 File in this folder
-- **links.html** → Demonstrates different types of HTML links.
+## 🌐 Live Demo
+[Click here to view the live site](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Links/index.html)
 
-## 🖥 Preview
-When opened in a browser, this page shows:
-- Links to other websites.
-- Links to other HTML files in the project.
-- Links to specific sections within the same page.
-- An email link.
+---
+
+## 🖼 Screenshot Preview
+![Website Screenshot](screenshot.png)
+
+---
+
+## 📂 Project Structure
+└──Links/
+├── index.html # Home page
+├── about.html # About page
+├── contact.html # Contact page
+├── images/
+│ └── sample.jpg # Image used in the home page
+└── screenshot.png # Preview image for README
