@@ -13,7 +13,7 @@ This page demonstrates how to use images in HTML, including:
 ---
 
 ## 🖼 Screenshot Preview
-![Webpage Screenshot](screenshot.jpg)
+![Webpage Screenshot](screenshots.jpg)
 
 ---
 
