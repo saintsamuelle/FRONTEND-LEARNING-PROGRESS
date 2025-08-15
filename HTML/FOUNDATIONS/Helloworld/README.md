@@ -1,17 +1,23 @@
-# Hello World
+<h1 align="center">🌍 Hello World</h1>
 
-This is my very first HTML file as part of my **Front-End Learning Progress** journey.
+<p align="center">
+  My very first HTML project — the classic <b>Hello World</b> webpage!  
+  Built as part of my frontend learning journey.
+</p>
 
-## 📌 What I Learned
-- The basic structure of an HTML document.
-- The role of `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
-- How browsers interpret and display HTML content.
+<p align="center">
+  <img src="screenshot.png" alt="Hello World Preview" width="500">
+</p>
 
-## 📂 File in this folder
-- **hello-world.html** → Displays a simple "Hello World" page.
+---
 
-## 🖥 Preview
-When opened in a browser, this page shows:
-- A big heading saying "Hello World!"
-- A paragraph saying "This is my very first HTML page."
-- A header saying "My Name Is Okusanya Samuel."
+## 🔗 Live Demo
+[![View on GitHub Pages](https://img.shields.io/badge/View-Live%20Page-blue?style=for-the-badge)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Helloworld/)
+
+---
+
+## 📂 Project Structure
+```plaintext
+Helloworld/
+│── index.html       # Main HTML file
+│── screenshot.png   # Project preview
