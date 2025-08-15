@@ -1,0 +1,20 @@
+# HTML Images Lesson
+
+This page demonstrates how to use images in HTML, including:
+- Adding a basic image with `src` and `alt` attributes.
+- Making an image clickable using an anchor tag.
+- Creating a responsive image using CSS styling.
+
+---
+
+## 🌐 Live Demo
+[Click here to view the live page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Images/05-images.html)
+
+---
+
+## 🖼 Screenshot Preview
+![Webpage Screenshot](screenshot.png)
+
+---
+
+## 📂 Project Structure
