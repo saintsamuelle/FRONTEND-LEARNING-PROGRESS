@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 APIs</title>
+</head>
+<body>
+    <header>
+        <h1>HTML5 APIs</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>What are HTML5 APIs?</h2>
+            <p>HTML5 APIs allow developers to create more interactive and dynamic web applications using built-in browser features.</p>
+        </section>
+
+        <section>
+            <h2>Examples of HTML5 APIs</h2>
+            <ul>
+                <li><strong>Geolocation API:</strong> Access the user's location.</li>
+                <li><strong>Local Storage:</strong> Store data in the browser for later use.</li>
+                <li><strong>Canvas API:</strong> Draw graphics and animations.</li>
+                <li><strong>Drag & Drop API:</strong> Enable dragging and dropping of elements.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Example: Geolocation</h2>
+            <p>Click the button to get your current location:</p>
+            <button onclick="getLocation()">Get Location</button>
+            <p id="location"></p>
+
+            <script>
+                function getLocation() {
+                    const locationElement = document.getElementById('location');
+                    if (navigator.geolocation) {
+                        navigator.geolocation.getCurrentPosition(
+                            (position) => {
+                                locationElement.textContent = 
+                                `Latitude: ${position.coords.latitude}, Longitude: ${position.coords.longitude}`;
+                            },
+                            (error) => {
+                                locationElement.textContent = `Error: ${error.message}`;
+                            }
+                        );
+                    } else {
+                        locationElement.textContent = "Geolocation is not supported by this browser.";
+                    }
+                }
+            </script>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 HTML Learning Progress</p>
+    </footer>
+</body>
+</html>
