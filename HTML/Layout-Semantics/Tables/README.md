@@ -5,7 +5,7 @@ This page shows how to create tables in HTML without any CSS.
 ---
 
 ## 🌐 Live Demo
-[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Tables/tables.html)
+[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-Semantics/Tables/tables.html)
 
 ---
 

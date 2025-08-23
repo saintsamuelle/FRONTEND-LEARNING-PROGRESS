@@ -10,20 +10,13 @@ It covers:
 ---
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Links/index.html)
+[Click here to view the live site](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Links/index.html)
 
 ---
 
 ## 🖼 Screenshot Preview
-![Website Screenshot](screenshot.png)
+![Website Screenshot](screenshot1.png)
+![Website Screenshot](screenshot2.png)
+![Website Screenshot](screenshot3.png)
 
 ---
-
-## 📂 Project Structure
-└──Links/
-├── index.html # Home page
-├── about.html # About page
-├── contact.html # Contact page
-├── images/
-│ └── sample.jpg # Image used in the home page
-└── screenshot.png # Preview image for README

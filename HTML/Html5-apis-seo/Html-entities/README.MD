@@ -16,7 +16,7 @@ This page demonstrates **HTML entities**, which are special codes used to displa
 
 Here’s a preview of the page:
 
-![HTML Entities Screenshot](screenshot.jpg)
+![HTML Entities Screenshot](screenshot.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a preview of the page:
 
 Click the button below to open the page live in your browser:
 
-[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](html-entities.html)
+[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Html-entities/html-entities.html)
 
 ---
 

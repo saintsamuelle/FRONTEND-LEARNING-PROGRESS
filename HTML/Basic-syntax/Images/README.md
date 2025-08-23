@@ -8,7 +8,7 @@ This page demonstrates how to use images in HTML, including:
 ---
 
 ## 🌐 Live Demo
-[![Click here to view the live page](https://img.shields.io/badge/View-Live%20Page-blue?style=for-the-badge)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Images/images.html)
+[![Click here to view the live page](https://img.shields.io/badge/View-Live%20Page-blue?style=for-the-badge)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Images/images.html)
 
 ---
 
@@ -16,5 +16,3 @@ This page demonstrates how to use images in HTML, including:
 ![Webpage Screenshot](screenshots.jpg)
 
 ---
-
-## 📂 Project Structure

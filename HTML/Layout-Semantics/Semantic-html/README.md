@@ -5,7 +5,7 @@ This project demonstrates how to structure a webpage using **semantic HTML tags*
 ---
 
 ## 🌐 Live Demo
-[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Semantic/semantic.html)
+[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-Semantics/Semantic/semantic.html)
 
 ---
 
