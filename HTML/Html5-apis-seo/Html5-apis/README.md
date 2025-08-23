@@ -16,7 +16,7 @@ This page introduces **HTML5 APIs** and demonstrates how to make web pages more 
 
 Here’s a preview of the page:
 
-![HTML5 APIs Screenshot](screenshot.jpg)
+![HTML5 APIs Screenshot](screenshot.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a preview of the page:
 
 Click the button below to open the page live in your browser:
 
-[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](html5-apis.html)
+[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Html5-apis/html5-apis.html)
 
 ---
 

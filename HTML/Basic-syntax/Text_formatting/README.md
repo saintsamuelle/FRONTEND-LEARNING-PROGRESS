@@ -18,3 +18,14 @@ When opened in a browser, this page shows:
 - Paragraph text.
 - Bold, italic, and underlined text.
 - A horizontal line separating sections.
+
+## 🌐 Live Demo
+[Click here to view the live site](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Text-formatting/text-formatting.html)
+
+---
+
+## 🖼 Screenshot Preview
+![Website Screenshot](screenshot.png)
+
+---
+

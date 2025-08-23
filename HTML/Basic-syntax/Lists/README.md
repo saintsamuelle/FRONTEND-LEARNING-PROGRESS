@@ -17,3 +17,13 @@ When opened in a browser, this page shows:
 - A bullet-point to-do list.
 - A glossary using description lists.
 - A nested list example.
+
+## 🌐 Live Demo
+[Click here to view the live site](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Lists/lists.html)
+
+---
+
+## 🖼 Screenshot Preview
+![Website Screenshot](screenshot.png)
+
+---

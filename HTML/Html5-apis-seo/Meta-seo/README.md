@@ -16,7 +16,7 @@ This page introduces **meta tags** and the basics of **SEO (Search Engine Optimi
 
 Here’s a preview of the page:
 
-![Meta Tags & SEO Screenshot](screenshot.jpg)
+![Meta Tags & SEO Screenshot](screenshot.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a preview of the page:
 
 Click the button below to open the page live in your browser:
 
-[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](meta-seo.html)
+[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Meta-seo/meta-seo.html)
 
 ---
 

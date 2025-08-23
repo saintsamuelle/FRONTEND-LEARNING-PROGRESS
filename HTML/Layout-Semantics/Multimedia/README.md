@@ -5,7 +5,7 @@ This page demonstrates how to include **audio** and **video** in HTML without CS
 ---
 
 ## 🌐 Live Demo
-[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Media/media.html)
+[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-Semantics/Multimedia/media.html)
 
 ---
 
@@ -22,12 +22,3 @@ This page demonstrates how to include **audio** and **video** in HTML without CS
 - Always provide fallback text for browsers that do not support the element.
 
 ---
-
-## 📂 Project Structure
-└── Media/
-├── media.html
-├── audio/
-│ └── song.mp3
-├── video/
-│ └── sample.mp4
-└── screenshot.png

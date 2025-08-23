@@ -16,7 +16,7 @@ This page covers **HTML best practices** to help write clean, semantic, and main
 
 Here’s a preview of the page:
 
-![Best Practices Screenshot](screenshot.jpg)
+![Best Practices Screenshot](screenshot.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here’s a preview of the page:
 
 Click the button below to open the page live in your browser:
 
-[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](best-practices.html)
+[![View Live](https://img.shields.io/badge/View%20Code-Live-brightgreen)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Best-practices/best-practices.html)
 
 ---
 

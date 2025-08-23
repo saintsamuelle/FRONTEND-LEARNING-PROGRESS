@@ -5,7 +5,7 @@ This page demonstrates how to create forms in HTML with different input types.
 ---
 
 ## 🌐 Live Demo
-[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/FOUNDATIONS/Forms/forms.html)
+[View Live Page](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-Semantics/Forms/forms.html)
 
 ---
 
@@ -24,8 +24,3 @@ This page demonstrates how to create forms in HTML with different input types.
 - `<label>` improves accessibility by linking text to form inputs.
 
 ---
-
-## 📂 Project Structure
-└── Forms/
-├── forms.html
-└── screenshot.png
