@@ -2,13 +2,13 @@
 
 Welcome to my **HTML Learning Progress** repository! This documents my structured journey from HTML fundamentals to professional techniques, including practical mini-projects.
 
-[![GitHub Pages](https://img.shields.io/badge/View-Live_Demos-blue?style=for-the-badge&logo=github)](https://yourusername.github.io/html-learning-progress/)
+[![GitHub Pages](https://img.shields.io/badge/View-Live_Demos-blue?style=for-the-badge&logo=github)](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
 ## 🗂️ Table of Contents
-1. [Core HTML](#-core-html)  
+1. [Basic Syntax](#-basic-syntax)  
 2. [Layout & Semantics](#-layout--semantics)  
 3. [HTML5 APIs & SEO](#-html5-apis--seo)  
 4. [Mini Projects](#-mini-projects)  
@@ -16,7 +16,7 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 
 ---
 
-## 1️⃣ Core HTML 
+## 1️⃣ Basic Syntax 
 *Fundamental syntax and elements*
 
 | Page | Description | Live Demo |
