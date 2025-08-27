@@ -25,5 +25,3 @@ This page shows how to create tables in HTML without any CSS.
 - `rowspan` merges cells vertically.
 
 ---
-
-## 📂 Project Structure

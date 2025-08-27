@@ -21,11 +21,11 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 
 | Page | Description | Live Demo |
 |------|-------------|-----------|
-| [Hello World](01-core-html/hello-world.html) | Basic document structure | [View](01-core-html/hello-world.html) |
-| [Text Formatting](01-core-html/text-formatting.html) | Headings, paragraphs, text styling | [View](01-core-html/text-formatting.html) |
-| [Lists](01-core-html/lists.html) | Ordered/unordered lists | [View](01-core-html/lists.html) |
-| [Links](01-core-html/links.html) | Hyperlinks and anchors | [View](01-core-html/links.html) |
-| [Images](01-core-html/images.html) | Image embedding & attributes | [View](01-core-html/images.html) |
+| [Hello World](basic-syntax/hello-world.html) | Basic document structure | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Helloworld/hello-world.html) |
+| [Text Formatting](basic-syntax/text-formatting.html) | Headings, paragraphs, text styling | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Text-formatting/text-formatting.html) |
+| [Lists](basic-syntax/lists.html) | Ordered/unordered lists | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Lists/lists.html) |
+| [Links](basic-syntax/links.html) | Hyperlinks and anchors | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Links/links.html) |
+| [Images](basic-syntax/images.html) | Image embedding & attributes | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Basic-syntax/Images/images.html) |
 
 ---
 
@@ -34,10 +34,10 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 
 | Page | Description | Live Demo |
 |------|-------------|-----------|
-| [Tables](02-layout-semantics/tables.html) | Data presentation | [View](02-layout-semantics/tables.html) |
-| [Forms](02-layout-semantics/forms.html) | User input collection | [View](02-layout-semantics/forms.html) |
-| [Semantic HTML](02-layout-semantics/semantic-html.html) | Modern layout tags | [View](02-layout-semantics/semantic-html.html) |
-| [Multimedia](02-layout-semantics/multimedia.html) | Audio/video embedding | [View](02-layout-semantics/multimedia.html) |
+| [Tables](layout-semantics/tables.html) | Data presentation | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-semantics/tables.html) |
+| [Forms](layout-semantics/forms.html) | User input collection | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-semantics/forms.html) |
+| [Semantic HTML](layout-semantics/semantic-html.html) | Modern layout tags | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-semantics/semantic-html.html) |
+| [Multimedia](layout-semantics/multimedia.html) | Audio/video embedding | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/Layout-semantics/multimedia.html) |
 
 ---
 
@@ -46,9 +46,9 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 
 | Page | Description | Live Demo |
 |------|-------------|-----------|
-| [Meta & SEO](03-html5-apis-seo/meta-seo.html) | Search engine optimization | [View](03-html5-apis-seo/meta-seo.html) |
-| [Accessibility](03-html5-apis-seo/accessibility.html) | WCAG compliance | [View](03-html5-apis-seo/accessibility.html) |
-| [HTML5 APIs](03-html5-apis-seo/html5-apis.html) | Geolocation, Canvas, etc. | [View](03-html5-apis-seo/html5-apis.html) |
+| [Meta & SEO](03-html5-apis-seo/meta-seo.html) | Search engine optimization | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/03-html5-apis-seo/meta-seo.html) |
+| [Accessibility](03-html5-apis-seo/accessibility.html) | WCAG compliance | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/03-html5-apis-seo/accessibility.html) |
+| [HTML5 APIs](03-html5-apis-seo/html5-apis.html) | Geolocation, Canvas, etc. | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/03-html5-apis-seo/html5-apis.html) |
 
 ---
 
@@ -57,9 +57,9 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| [Portfolio](04-mini-projects/personal-portfolio.html) | Professional showcase | [View](04-mini-projects/personal-portfolio.html) |
-| [Survey Form](04-mini-projects/survey-form.html) | Interactive data collection | [View](04-mini-projects/survey-form.html) |
-| [Recipe Page](04-mini-projects/recipe-page.html) | Structured content layout | [View](04-mini-projects/recipe-page.html) |
+| [Portfolio](04-mini-projects/personal-portfolio.html) | Professional showcase | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/04-mini-projects/personal-portfolio.html) |
+| [Survey Form](04-mini-projects/survey-form.html) | Interactive data collection | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/04-mini-projects/survey-form.html) |
+| [Recipe Page](04-mini-projects/recipe-page.html) | Structured content layout | [View](https://saintsamuelle.github.io/FRONTEND-LEARNING-PROGRESS/HTML/04-mini-projects/recipe-page.html) |
 
 ---
 
@@ -68,4 +68,4 @@ Welcome to my **HTML Learning Progress** repository! This documents my structure
 2. View live demos via GitHub Pages
 3. Clone for local exploration:
    ```bash
-   git clone https://github.com/yourusername/html-learning-progress.git
+   git clone https://github.com/saintsamuelle/frontend-learning-progress.git

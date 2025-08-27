@@ -17,7 +17,7 @@ This page demonstrates how to use **quotations** and **code snippets** in HTML. 
 
 Here’s a preview of the page:
 
-![Quotations & Code Screenshot](screenshot.jpg)
+![Quotations & Code Screenshot](screenshot.png)
 
 ---
 
