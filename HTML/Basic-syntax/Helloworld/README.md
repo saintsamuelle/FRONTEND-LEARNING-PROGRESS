@@ -14,7 +14,7 @@ My first HTML project — the classic "Hello World" webpage, built with semantic
 
 ## 🖥️ Screenshot
 <p align="center">
-  <img src="screenshot.png" alt="Hello World preview" width="600">
+  <img src="Screenshot.png" alt="Hello World preview" width="600">
 </p>
 
 ## 🚀 Live Demo
