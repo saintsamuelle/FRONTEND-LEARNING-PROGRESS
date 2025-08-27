@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 HTML Learning Progress
 
 Welcome to my **HTML Learning Progress** repository! This documents my structured journey from HTML fundamentals to professional techniques, including practical mini-projects.
